@@ -88,6 +88,9 @@
     "webpack": "^1.12.2",
     "webpack-dev-middleware": "^1.4.0",
     "webpack-hot-middleware": "^2.6.0",
-    "webpack-merge": "^0.8.3"
+    "webpack-merge": "^0.8.3",
+    "foundation-sites": "^6.2.3",
+    "node-sass": "^3.8.0",
+    "sass-loader": "^4.0.0",
   }
 }

@@ -1,0 +1,6 @@
+// Sass utilities
+@import 'styles/settings';
+@import 'foundation';
+
+@include foundation-global-styles
+@include foundation-typography

@@ -78,6 +78,10 @@ module.exports = {
       }
     ]
   },
+  sassLoader: {
+    includePaths: [
+      path.resolve(__dirname, '../node_modules/foundation-sites/scss/')    ]
+  },
   {{#lint}}
   eslint: {
     formatter: require('eslint-friendly-formatter')
